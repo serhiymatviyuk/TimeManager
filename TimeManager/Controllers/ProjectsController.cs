@@ -7,7 +7,6 @@ using TimeManager.Services.Projects.Contracts;
 
 namespace TimeManager.Controllers
 {
-    //TODO: handle errors
     [Route("api/[controller]")]
     [ApiController]
     public class ProjectsController : ControllerBase
